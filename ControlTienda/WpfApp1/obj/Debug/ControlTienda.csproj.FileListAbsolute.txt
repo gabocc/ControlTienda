@@ -1,0 +1,15 @@
+D:\ControlTienda\ControlTienda\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\ControlTienda\ControlTienda\WpfApp1\bin\Debug\WpfApp1.exe
+D:\ControlTienda\ControlTienda\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\ControlTienda\ControlTienda\WpfApp1\obj\Debug\ControlTienda.csprojAssemblyReference.cache
+D:\ControlTienda\ControlTienda\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\ControlTienda\ControlTienda\WpfApp1\obj\Debug\App.g.cs
+D:\ControlTienda\ControlTienda\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\ControlTienda\ControlTienda\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\ControlTienda\ControlTienda\WpfApp1\obj\Debug\MainWindow.baml
+D:\ControlTienda\ControlTienda\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\ControlTienda\ControlTienda\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\ControlTienda\ControlTienda\WpfApp1\obj\Debug\ControlTienda.csproj.GenerateResource.cache
+D:\ControlTienda\ControlTienda\WpfApp1\obj\Debug\ControlTienda.csproj.CoreCompileInputs.cache
+D:\ControlTienda\ControlTienda\WpfApp1\obj\Debug\WpfApp1.exe
+D:\ControlTienda\ControlTienda\WpfApp1\obj\Debug\WpfApp1.pdb

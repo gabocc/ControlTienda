@@ -1,15 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 
 namespace WpfApp1.Data.Entities
 {
-   public class Category
+    using System;
+    using System.ComponentModel.DataAnnotations;
+    public class Category
     {
         public int Id { set; get; }
+        [MaxLength (30)]
         public string Name { set; get; }
+        [MaxLength (250)]
         public string Description { set; get; }
 
     }
